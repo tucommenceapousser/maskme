@@ -20,6 +20,13 @@ J'ai volontairement laissé différentes versions du projet, chacune ayant des c
 Les autres versions sont simplifiées ou contiennent des configurations spécifiques pour des tests ou des démonstrations particulières.
 Nous utilisons principalement numpy, mp, cv2, ...
 
+### Explication :
+#### Deux Solutions Possibles
+
+- **`pip install --upgrade openai` et `openai migrate`** : Utilise la commande `migrate` pour mettre à jour automatiquement le projet vers la dernière version d'OpenAI, avec des ajustements nécessaires pour la compatibilité.
+
+- **`pip install openai==0.28`** : Installe spécifiquement la version 0.28 de la bibliothèque OpenAI.
+
 ## 🚀 **Démo Déployée**
 
 Découvrez la démo en ligne de l'application en cliquant sur le lien ci-dessous :
