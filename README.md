@@ -27,7 +27,7 @@ Avant d'exécuter ce projet, assurez-vous d'avoir installé les dépendances né
 1. Clonez le dépôt sur votre machine :
 
    ```ruby
-   git clone https://github.com/votre-utilisateur/anonymous-mask-tool.git
+   git clone https://github.com/tucommenceapousser/maskme.git
    cd anonymous-mask-tool
    ```
 
