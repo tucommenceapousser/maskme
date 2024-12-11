@@ -71,7 +71,21 @@ Exemple de contenu du fichier .env :
 
 
 
+### Cloner le projet
 
+#### Option 1 : Cloner depuis mon Repl
+
+Cliquez sur le bouton ci-dessous pour cloner le projet directement depuis mon Repl sur Replit :
+
+[![Clone on Replit](https://replit.com/badge/github/tucommenceapousser/maskme)](https://replit.com/@trkn/maskme)
+
+#### Option 2 : Cloner depuis Git
+
+Vous pouvez également cloner le projet depuis le dépôt Git avec la commande suivante :
+
+   ```ruby
+   git clone https://github.com/tucommenceapousser/maskme.git
+   ```
 
 
 ## 🚀 **Démo Déployée**
