@@ -9,11 +9,11 @@ Un outil simple mais puissant permettant d'ajouter un masque anonyme à des visa
 - Rotation et redimensionnement automatique du masque pour s'adapter à l'orientation et à la taille du visage.
 - Visualisation du résultat avec un simple lien de téléchargement.
 
-## 🎨 **Aperçu**
+## 🚀 **Démo Déployée**
 
-Voici un exemple de ce à quoi cela pourrait ressembler après avoir ajouté un masque :
+Découvrez la démo en ligne de l'application en cliquant sur le lien ci-dessous :
 
-![Example](static/images/example.jpg)
+[**Voir la démo déployée**](https://maskme-trkn.replit.app/)
 
 ## 🛠️ **Prérequis**
 
