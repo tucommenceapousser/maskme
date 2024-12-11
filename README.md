@@ -33,26 +33,26 @@ Avant d'exécuter ce projet, assurez-vous d'avoir installé les dépendances né
 
 2. Créez un environnement virtuel (optionnel mais recommandé) :
 
-```ruby
-python3 -m venv venv
-source venv/bin/activate  # Pour Linux/Mac
-venv\Scripts\activate
-```
+   ```ruby
+   python3 -m venv venv
+   source venv/bin/activate  # Pour Linux/Mac
+   venv\Scripts\activate
+   ```
 
 3. Installez les dépendances :
 
-```ruby
-pip install -r requirements.txt
-```
+   ```ruby
+   pip install -r requirements.txt
+   ```
 
 
 🖥️ Démarrage du Serveur
 
 1. Exécutez l'application Flask :
 
-```ruby
-python app.py
-```
+   ```ruby
+   python app.py
+   ```
 
 2. Accédez à l'application via votre navigateur à l'adresse suivante :
 
@@ -94,7 +94,7 @@ Werkzeug : Pour sécuriser les fichiers téléchargés.
 
 ## 📁 **Structure des Dossiers**
 
-```ruby
+   ```ruby
 /anonymous-mask-tool
 ├── /static
 │   ├── /uploads             # Dossier pour stocker les images téléchargées
@@ -105,7 +105,7 @@ Werkzeug : Pour sécuriser les fichiers téléchargés.
 ├── app.py                   # Script principal de l'application
 ├── requirements.txt         # Liste des dépendances
 └── README.md
-```
+   ```
 
 📌 **Remarques** :  
 - **Werkzeug** est utilisé pour sécuriser les fichiers téléchargés dans l'application.
