@@ -27,6 +27,33 @@ Nous utilisons principalement numpy, mp, cv2, ...
 
 - **`pip install openai==0.28`** : Installe spécifiquement la version 0.28 de la bibliothèque OpenAI.
 
+### Configuration de l'API OpenAI
+
+Pour utiliser l'API OpenAI, vous devez ajouter votre clé API dans un fichier `.env` à la racine du projet.
+
+#### Étapes :
+
+1. Créez un fichier `.env` à la racine de votre projet (si ce n'est pas déjà fait).
+2. Ajoutez la ligne suivante dans ce fichier :
+
+   ```dotenv
+   OPENAI_API_KEY=your-api-key-here
+   ```
+3. Remplacez your-api-key-here par votre propre clé API obtenue depuis OpenAI.
+
+
+
+Exemple de contenu du fichier .env :
+
+**`OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXX`**
+
+> Important : Assurez-vous que le fichier .env est ajouté à votre .gitignore pour éviter de partager votre clé API sur des dépôts publics.
+
+
+
+
+
+
 ## 🚀 **Démo Déployée**
 
 Découvrez la démo en ligne de l'application en cliquant sur le lien ci-dessous :
