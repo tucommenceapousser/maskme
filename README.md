@@ -77,6 +77,10 @@ Exemple de contenu du fichier .env :
 
 Cliquez sur le bouton ci-dessous pour cloner le projet directement sur Replit depuis le dépôt GitHub :
 
+[![Clone on Replit](trutmp.svg)](https://replit.com/github/tucommenceapousser/maskme)
+
+[![Clone on Replit](https://img.shields.io/badge/Clone%20on%20Replit-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHNhbWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpjYz0iaHR0cDovL3d3dy5zdmctaG9zdC5jb20vY3NzMiIgdmVyc2lvbj0iMS4xIiBpZD0ic3ZnMjAwMCIgdmlld0JveD0iMCAwIDEyNyA2MCIgd2lkdGg9IjEyNyIgaGVpZ2h0PSI2MCI+PGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUwKSByb3RhdGUoMzApIiBmaWxsPSIjMDBGZjAwIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIvPjwvZz48L3NhbWw+)](https://replit.com/github/tucommenceapousser/maskme)
+
 [![Clone on Replit](https://replit.com/badge/github/tucommenceapousser/maskme)](https://replit.com/github/tucommenceapousser/maskme)
 
 #### Option 2 : Cloner depuis Git
