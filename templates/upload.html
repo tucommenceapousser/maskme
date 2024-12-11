@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mask Application</title>
+</head>
+<body style="background: #121212; color: #00ff00; font-family: Arial, sans-serif;">
+    <h1>Welcome to the Mask Application!</h1>
+    <p>Upload your photo below, and we'll add a mask to your face automatically. Make sure your face is clearly visible in the photo for the best results.</p>
+    <form method="POST" enctype="multipart/form-data">
+        {{ form.csrf_token }}
+        {{ form.photo.label }} <br>
+        {{ form.photo }} <br><br>
+        {{ form.submit }}
+    </form>
+</body>
+</html>

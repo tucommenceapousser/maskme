@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload d'image et application du masque</title>
+</head>
+<body>
+    <h1>Upload une image pour appliquer un masque</h1>
+
+    <form method="POST" enctype="multipart/form-data">
+        {{ form.hidden_tag() }}
+        <div>
+            {{ form.image.label }}<br>
+            {{ form.image() }}
+        </div>
+        <button type="submit">Envoyer</button>
+    </form>
+
+    {% if result_image %}
+        <h2>Image avec masque :</h2>
+        <img src="{{ url_for('static', filename='images/' + result_image.split('/')[-1]) }}" alt="Image avec masque appliqué">
+    {% endif %}
+</body>
+</html>
