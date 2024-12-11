@@ -9,6 +9,17 @@ Un outil simple mais puissant permettant d'ajouter un masque anonyme à des visa
 - Rotation et redimensionnement automatique du masque pour s'adapter à l'orientation et à la taille du visage.
 - Visualisation du résultat avec un simple lien de téléchargement.
 
+## 📝 **Versions du Projet**
+
+J'ai volontairement laissé différentes versions du projet, chacune ayant des caractéristiques spécifiques. 
+
+### 💡 **Version avec IA**
+- **Fichier principal** : `main.py`
+- Cette version intègre des fonctionnalités basées sur l'intelligence artificielle, permettant une interaction plus avancée et des résultats plus précis. 
+
+Les autres versions sont simplifiées ou contiennent des configurations spécifiques pour des tests ou des démonstrations particulières.
+Nous utilisons principalement numpy, mp, cv2, ...
+
 ## 🚀 **Démo Déployée**
 
 Découvrez la démo en ligne de l'application en cliquant sur le lien ci-dessous :
